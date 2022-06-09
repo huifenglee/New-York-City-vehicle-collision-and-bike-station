@@ -20,4 +20,12 @@ The summary of answers has been written in the document "results.docx" stored in
 
 ## 2. Versions of Python and Packages
 
+- Python = Python 3.7.11
+- Pandas = '1.3.4'
+- Numpy = '1.21.5'
+- Plotly = '5.8.0'
+- sklearn = '1.0.2'
 
+## 3.How to run the Notebook
+
+If you have installed all the packages required for this notebook, you can automatically run the script in Python. I have run the notebook in Visual Studio Code.
