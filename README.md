@@ -15,7 +15,7 @@ model.
 would be interesting to correlate?
 
 In the notebook ("New York Bike Station EDA and Predictive Modelling.ipynb"), those four questions are answered in Section 2, 3, 4, 5 respectively
-The summary of answers has been written in the document "results.docx" stored in the repository.
+The summary of answers has been written in the document "Results.docx" stored in the repository.
 
 
 ## 2. Versions of Python and Packages
@@ -28,4 +28,4 @@ The summary of answers has been written in the document "results.docx" stored in
 
 ## 3.How to run the Notebook
 
-If you have installed all the packages required for this notebook, you can automatically run the script in Python. I have run the notebook in Visual Studio Code.
+If you have installed all the packages required for this notebook, you should be able to automatically run the script in Python without any additinal requirement. I have run the notebook in Visual Studio Code.
