@@ -29,6 +29,6 @@ The summary of answers has been written in the document "Results.docx" stored in
 ## 3.How to run the Notebook
 
 If you have installed all the packages required for this notebook, you should be able to automatically run the script in Python without any additinal requirement. I have run the notebook in Visual Studio Code.
-Please click this link in order to show the plotly graphs for this notebook (https://nbviewer.org/github/huifenglee/New-York-City-vehicle-collision-and-bike-station/blob/main/New%20York%20Bike%20Station%20EDA%20and%20Predictive%20Modelling.ipynb)
+Please click this link in order to show the plotly graphs for this notebook (https://nbviewer.org/github/huifenglee/New-York-City-vehicle-collision-and-bike-station-EDA-and-Predictive-Modelling/blob/main/New%20York%20Bike%20Station%20EDA%20and%20Predictive%20Modelling.ipynb)
 Github has some issue of rendering the graphs in the notebook.
 
